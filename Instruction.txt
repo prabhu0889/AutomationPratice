@@ -1,0 +1,21 @@
+The following Components are used,
+
+The following suggested tools and libraries 
+
+• CucumberJVM
+
+• WebDriver
+
+• Maven
+
+Executions Instruction:
+
+In TestRunner package , We have a class called as RunTests.java file should run the execution of the program of
+
+the feature file and steps defintion.
+
+We used Hooks.java class, it will show the status of the scenarios and which line is running will be
+
+displayed at runtime.
+
+
